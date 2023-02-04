@@ -10,6 +10,5 @@ title: About
 
 ##### Website
 - FB nhóm [https://www.facebook.com/groups/213082293756300](https://www.facebook.com/groups/213082293756300)
-- Website được generated từ [https://github.com/ahaxu/appr.run](https://github.com/ahaxu/appr.run
-)
+- Website được generated từ [https://github.com/1kbl0g/appr.run](https://github.com/1kbl0g/appr.run)
 - Mọi bài viết được contributed từ thành viên của An Phú Park Runners(APPR).
